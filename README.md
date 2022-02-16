@@ -10,7 +10,7 @@ I'm currently a 4th year mechanical engineering major at UCI doing software deve
 Hobbyist tinkerer now doing programming stuff.
 <ul style="list-style-type:square">
 <br>
-  <h3>Previous Experience</h3>
+<h3>Previous Experience</h3>
 <li>Aerodynamics Engineer Sub-Team @ UCI Solar Airplane</li>
 <li>Public Relations Board Member @ Zotbotics Robotics Club at UCI</li>
 <li>Ex-Engineering Intern @ PCB Piezotronics, Inc.</li>
