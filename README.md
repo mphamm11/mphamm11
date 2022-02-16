@@ -4,7 +4,7 @@
 
 
 <h2>🐟 Hey, I'm Michael!</h2>
-I'm currently a 4th year mechanical engineering major at UCI doing software development on the side. I go to hackathons, play badminton and basketball, and video edit in my free time. Thanks for visiting my profile!
+I'm currently a 4th year mechanical engineering major at UCI doing software development on the side. I go to hackathons, play badminton, and take care of my fish in my free time. Thanks for visiting my profile!
 <br>
 <h2>💛 Activities and Involvements</h2>
 Hobbyist tinkerer now doing programming stuff.
