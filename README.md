@@ -5,7 +5,7 @@ I'm currently a 4th year mechanical engineering major at UCI doing web developme
 Hobbyist tinkerer now doing programming stuff.
 
 🔗 Important links
-[Linkedin] (https://www.linkedin.com/in/mphamusa/) • Website • Devpost • Email
+[Linkedin](https://www.linkedin.com/in/mphamusa/) • Website • Devpost • Email
 
 
 
