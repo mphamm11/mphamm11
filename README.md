@@ -1,11 +1,14 @@
-🐈 Hey, I'm Michael!
-I'm currently a 4th year mechanical engineering major at UCI doing web development on the side. I go to hackathons, play badminton and basketball, and video edit in my free time. Thanks for visiting my profile!
+🐧 Hey, I'm Michael!
+<hr>
+I'm currently a 4th year mechanical engineering major at UCI doing software development on the side. I go to hackathons, play badminton and basketball, and video edit in my free time. Thanks for visiting my profile!
 
 🔷 Activities and Involvements
+<hr>
 Hobbyist tinkerer now doing programming stuff.
 
 🔗 Important links
-[Linkedin](https://www.linkedin.com/in/mphamusa/) • Website • Devpost • Email
+<hr>
+[Linkedin](https://www.linkedin.com/in/mphamusa/) • [Website](https://michaelpham.tech/) • [Devpost](https://devpost.com/mphamusa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) • [Email](michahp1@uci.edu)
 
 
 
