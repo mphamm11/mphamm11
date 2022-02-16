@@ -3,20 +3,16 @@
 </p>
 
 
-<h2>🐟 Hey, I'm Michael!</h2>
+## 🐟 Hey, I'm Michael!
 I'm currently a 4th year mechanical engineering major at UCI doing software development on the side. I go to hackathons, play badminton, and bake in my free time. Thanks for visiting my profile!
 <br>
-<h2>💛 Activities and Involvements</h2>
-Hobbyist tinkerer now doing programming stuff.
-<ul style="list-style-type:square">
-<br>
-<h3>Previous Experience</h3>
-<li>Aerodynamics Engineer Sub-Team @ UCI Solar Airplane</li>
-<li>Public Relations Board Member @ Zotbotics Robotics Club at UCI</li>
-<li>Ex-Engineering Intern @ PCB Piezotronics, Inc.</li>
-<li>Ex-UI/UX Designer @ Fight&trade;</li>
-</ul>
-<h2>🔗 Important links</h2>
+## 💛 Activities and Involvements
+* Hobbyist tinkerer now doing programming stuff.
+* Aerodynamics Engineer Sub-Team @ UCI Solar Airplane
+* Public Relations Board Member @ Zotbotics Robotics Club at UCI
+* Ex-Engineering Intern @ PCB Piezotronics, Inc.
+* Ex-UI/UX Designer @ Fight&trade;
+## 🔗 Important links
 <a href="https://www.linkedin.com/in/mphamusa/">LinkedIn</a> • <a href="https://michaelpham.tech/">Website</a> • <a href="https://devpost.com/mphamusa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a> • <a href="mailto:michahp1@uci.edu">Email</a>
 <br>
 
