@@ -12,7 +12,7 @@ Zot! Zot! Zot!
 * Aerodynamics Engineer Sub-Team @ UCI Solar Airplane
 * Public Relations Board Member @ Zotbotics Robotics Club at UCI
 * Ex-Engineering Intern @ PCB Piezotronics, Inc.
-* Ex-UI/UX Designer @ Fight&trade;
+* Head of Design & UI Designer @ Fight&trade;
 ## 🔗 Important links
 <a href="https://www.linkedin.com/in/mphamusa/">LinkedIn</a> • <a href="https://michaelpham.tech/">Website</a> • <a href="https://devpost.com/mphamusa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a> • <a href="mailto:michahp1@uci.edu">Email</a>
 <br>
